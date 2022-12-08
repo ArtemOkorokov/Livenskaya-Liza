@@ -1,0 +1,254 @@
+ @import
+ url("https://fonts.googleapis.com/css?family=Inter:400");
+.desktop-1{
+    align-items: flex-end;
+    background-color: var(--white);
+    border: 0px none;
+    display: flex;
+    flex-direction: column;
+    height: 1020px;
+    width: 1024px;
+}
+.hidden,
+.hidden * {
+    pointer-events: none;
+    visibility: hidden;
+}
+ .overlap-croup1 {
+height: 200px;
+position: relative;
+width: 1200px;
+ }
+ .text-1{
+  color: azure;
+    left: 173px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 853px;
+ }
+ .text-4{
+    left: 1200px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 315px;
+    width: 217px;
+    font-size:16px;
+    color:rgb(69, 32, 204)!important;
+    text-shadow: 1px 1px 1px #000;
+ }
+ .text-7{
+    left: 1200px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 340px;
+    width: 66px;
+    font-size:16px;
+    color:rgb(69, 32, 204)!important;
+    text-shadow: 1px 1px 1px #000;
+ }
+ .text-5{
+    left: 1093px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 143px;
+ }
+ .text-8{
+    left: 1200px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 360px;
+ }
+ .text-6{
+    left: 1200px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 230px;
+    width: 183px;
+    font-size:16px;
+    color:rgb(69, 32, 204)!important;
+    text-shadow: 1px 1px 1px #000;
+ }
+ .text-3{
+    left: 670px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 5px;
+    width: 0px;
+    padding: 10px 17px 12px;
+    font-size:16px;
+    color:rgb(3, 1, 12)!important;
+    text-shadow: 1px 1px 1px #000;
+ }
+ .x1{
+    height: 1200px;
+    left: 30px;
+    object-fit: cover;
+    top: 8px;
+    width: 127px;
+ }
+  .date{
+    left: 1200px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 215px;
+    width: 50px;
+  }
+
+  .rectangle-2{
+    background-color: #5463af;
+    border: 0px none;
+    height: 170px;
+    left: 15px;
+    position: absolute;
+    top: 0px;
+    width: 1425px;
+  }
+  .text-2{
+    color: azure;
+    left: 173px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 270px;
+  }
+  .text-9{
+    left: 1200px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 200px;
+    width: 140px;
+    font-size:16px;
+    color:rgb(69, 32, 204)!important;
+    text-shadow: 1px 1px 1px #000;
+  }
+  .text-14{
+    left: 1200px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 138px;
+  }
+
+.text-10{
+  left: 1200px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 290px;
+  width: 203px;
+}
+.text-11{
+    left: 1200px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 270px;
+    width: 45px;
+    font-size:16px;
+    color:rgb(69, 32, 204)!important;
+    text-shadow: 1px 1px 1px #000;
+  }
+  .phone{
+    left: 1200px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 245px;
+    width: 65px;
+  }
+  .text-13{
+    left: 200px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 200px;
+    width: 500px;
+ 
+
+  }
+  .text-12{
+    left: 650px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 200px;
+    width: 72px;
+    border: 3px solid rgb(47, 0, 255); /* Толщина рамки в пикселах,
+    тип границы (в данном случае сплошная линия) и
+    цвет линии */
+  padding: 4px; /* Расстояние от текста до рамки */
+  font-size:16px;
+    color:rgb(0, 0, 0)!important;
+    text-shadow: 1px 1px 1px #000;
+  
+  }
+  .flex-row{
+    align-items: flex-start;
+    display: flex;
+    margin-right: 1000px;
+    min-width: 1378px;
+  }
+  .overlap-groupe{
+    align-items: flex-end;
+    background-color: #6d90eb;
+    display: flex;
+    height: 200px;
+    margin-top: 24px;
+    min-width: 200px;
+  }
+  .x3{
+    height: 37px;
+    object-fit: cover;
+    width: 50px;
+  }
+
+
+.x2{
+    height: 163px;
+    object-fit: cover;
+    width: 157px;
+}
+.x4{
+    height: 31px;
+    object-fit: cover;
+    width: 0px;
+}
+.text-20{
+  left: 900px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 200px;
+  width: 72px;
+  border: 3px solid rgb(47, 0, 255); /* Толщина рамки в пикселах,
+  тип границы (в данном случае сплошная линия) и
+  цвет линии */
+padding: 4px; /* Расстояние от текста до рамки */
+font-size:16px;
+    color:rgb(0, 0, 0)!important;
+    text-shadow: 1px 1px 1px #000;
+  
+}
+.inter-nirmal-white2{
+  border: 3px solid rgb(47, 0, 255); /* Толщина рамки в пикселах,
+  тип границы (в данном случае сплошная линия) и
+  цвет линии */
+padding: 4px; /* Расстояние от текста до рамки */
+font-size:16px;
+    color:rgb(0, 0, 0)!important;
+    text-shadow: 1px 1px 1px #000;
+  
+}
